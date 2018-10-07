@@ -2,7 +2,7 @@
 
 This codebase accompanies:
 
-Kyriazis A. D.&ast;, Noroozi-Zadeh S.&ast;, Refaee A.&ast;, Choi W.&ast;, Chu L.&ast;, Bashir A., Cheng W. H., Zhao R., Namjoshi D. R., Sacludean S. E., Wellington C. L., Nir G. An end-to-end system for automatic characterization of microglia behavior in iba1 stain whole slide imaging. Neuroinformatics.
+> Kyriazis A. D.&ast;, Noroozi-Zadeh S.&ast;, Refaee A.&ast;, Choi W.&ast;, Chu L.&ast;, Bashir A., Cheng W. H., Zhao R., Namjoshi D. R., Sacludean S. E., Wellington C. L., Nir G. An end-to-end system for automatic characterization of microglia behavior in iba1 stain whole slide imaging. Neuroinformatics.
 
 This README should act as a road map for how to train the automated pipeline.
 
