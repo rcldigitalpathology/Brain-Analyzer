@@ -1,6 +1,4 @@
-# README #
-
-#Microglia Analysis tool V1.0#
+# Microglia Analysis tool V1.0 #
 
 This README should act as a road map for how to train the automated pipeline.
 
@@ -175,3 +173,7 @@ common - for common class definitions, utility functions and other tools
 GUI - for visualizing the analyzed microglia data
 
 library - for third party libraries that we source into this project
+
+## License ##
+
+This project is licensed under the terms of the MIT license.
