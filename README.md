@@ -1,5 +1,9 @@
 # Microglia Analysis tool V1.0 #
 
+This codebase accompanies:
+
+Kyriazis A. D.*, Noroozi-Zadeh S.*, Refaee A.*, Choi W.*, Chu L.*, Bashir A., Cheng W. H., Zhao R., Namjoshi D. R., Sacludean S. E., Wellington C. L., Nir G. An end-to-end system for automatic characterization of microglia behavior in iba1 stain whole slide imaging. Neuroinformatics.
+
 This README should act as a road map for how to train the automated pipeline.
 
 If you do not wish to train the pipeline, but simply to execute it, skip to the "RUNNING THE PIPELINE" section below.
