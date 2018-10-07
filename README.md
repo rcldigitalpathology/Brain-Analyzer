@@ -15,9 +15,9 @@ NOTE: This should not be used literally line-by-line, as further care needs to b
 Requires at least MATLAB R2017b
 
 Also requires the following addons within MATLAB:
-"Statistics and Machine Learning Toolbox"
-"Neural Network Toolbox"
-"Image Processing Toolbox" 
+- "Statistics and Machine Learning Toolbox"
+- "Neural Network Toolbox"
+- "Image Processing Toolbox" 
 
 ## WHITE MATTER SEGMENTATION DETECTION
 
